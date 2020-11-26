@@ -1,0 +1,6 @@
+C:\Users\lizzc\OneDrive\Documentos\Base de datos\USUARIO INTERFAZ\obj\Debug\USUARIO INTERFAZ.csprojAssemblyReference.cache
+C:\Users\lizzc\OneDrive\Documentos\Base de datos\USUARIO INTERFAZ\obj\Debug\USUARIO_INTERFAZ.Form1.resources
+C:\Users\lizzc\OneDrive\Documentos\Base de datos\USUARIO INTERFAZ\obj\Debug\USUARIO_INTERFAZ.Form2.resources
+C:\Users\lizzc\OneDrive\Documentos\Base de datos\USUARIO INTERFAZ\obj\Debug\USUARIO_INTERFAZ.Properties.Resources.resources
+C:\Users\lizzc\OneDrive\Documentos\Base de datos\USUARIO INTERFAZ\obj\Debug\USUARIO INTERFAZ.csproj.GenerateResource.cache
+C:\Users\lizzc\OneDrive\Documentos\Base de datos\USUARIO INTERFAZ\obj\Debug\USUARIO INTERFAZ.csproj.CoreCompileInputs.cache
